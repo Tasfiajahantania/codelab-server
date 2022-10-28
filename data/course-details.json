@@ -63,7 +63,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "total_students": 200,
+        "total_students": 250,
         "title": "Spring Course for Beginner",
         "author": {
             "name": "Md Iqbal",
@@ -92,7 +92,7 @@
         "thumbnail_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
         "image_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
         "price": 19,
-        "details": "Code.org increases diversity in computer science by reaching students of all backgrounds where they are — at their skill-level, in their schools, and in ways that inspire them to keep learning. The vast majority of the students on Code.org are from student groups historically underrepresented in computer science. Increasing diversity in computer science is foundational to our work"
+        "details": "Code.org increases diversity in computer science reaching students of all backgrounds where they are — at their skill-level, in their schools, and in ways that inspire them to keep learning. The vast majority of the students on Code.org are from student groups historically underrepresented in computer science. Increasing diversity in computer science is foundational to our work"
     },
     {
         "_id": "06",
