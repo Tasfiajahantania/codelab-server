@@ -16,7 +16,7 @@
         "thumbnail_url": "https://i.ibb.co/BsXhn9g/Angular.jpg",
         "image_url": "https://i.ibb.co/BsXhn9g/Angular.jpg",
         "price": 29,
-        "details": "Angular is a powerful platform that allows you to build web applications. It includes a component based framework for making applications scalable and a library collection with a wide range of development features. A suite of developer tools gives you the ability to manage your application at every stage of development, from conception to testing. Udemy offers a range of Angular courses to teach the basics or enhance your skill level."
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
         "_id": "02",
@@ -35,7 +35,7 @@
         "thumbnail_url": "https://i.ibb.co/wrWBT7X/React-js.jpg",
         "image_url": "https://i.ibb.co/wrWBT7X/React-js.jpg",
         "price": 19,
-        "details": "React training from top rated instructors on Udemy can help you become skilled in using this powerful JavaScript tool. With a React course, you can learn how to create elements that let users update data in real time, create useful interactive components on a webpage, and so much more. Millions have learned to use React with JavaScript on Udemy, and you can too."
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
         "_id": "03",
@@ -54,7 +54,7 @@
         "thumbnail_url": "https://i.ibb.co/MSqn24k/Vue-js.jpg",
         "image_url": "https://i.ibb.co/MSqn24k/Vue-js.jpg",
         "price": 39,
-        "details": "Vue.js is a JavaScript framework that is widely popular because it is easy to learn and use. Originally designed to create applications and web interfaces for a single page, Vue is now capable of building web and desktop apps. Use it to develop mobile apps with help from the Electron framework. Over a million learners have explored this exciting platform with a Vue.js course on Udemy, and you can too, no matter your skill level."
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
         "_id": "04",
@@ -63,7 +63,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "total_students": 250,
+        "total_students": 200,
         "title": "Spring Course for Beginner",
         "author": {
             "name": "Md Iqbal",
@@ -73,7 +73,7 @@
         "thumbnail_url": "https://i.ibb.co/6rQ00RH/Spring.jpg",
         "image_url": "https://i.ibb.co/6rQ00RH/Spring.jpg",
         "price": 29,
-        "details": "Learn Spring online at your own pace. Start today and improve your skills. Join millions of learners from around the world already learning on Udemy. Expert Instructors. 30-Day Money Guarantee. Over 204,000 Courses. Lifetime Access."
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
         "_id": "05",
@@ -92,7 +92,7 @@
         "thumbnail_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
         "image_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
         "price": 19,
-        "details": "Code.org increases diversity in computer science reaching students of all backgrounds where they are — at their skill-level, in their schools, and in ways that inspire them to keep learning. The vast majority of the students on Code.org are from student groups historically underrepresented in computer science. Increasing diversity in computer science is foundational to our work"
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
         "_id": "06",
@@ -111,6 +111,6 @@
         "thumbnail_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
         "image_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
         "price": 25,
-        "details": "Scalability describes the ability of software developers to design expandable mobile and web applications that support new features and process vast amounts of user data without system downtime."
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     }
 ]
